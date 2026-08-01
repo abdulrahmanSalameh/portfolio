@@ -21,7 +21,7 @@ A responsive personal portfolio website created to showcase my skills, projects,
 
 ## Live Website
 
-The live website link will be added here after deployment using GitHub Pages.
+[View Portfolio Website](https://abdulrahmansalameh.github.io/portfolio/)
 
 ## Screenshot
 
